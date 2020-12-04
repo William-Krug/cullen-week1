@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+}
+
+p {
+  padding: 20px;
+}
+
+/* CLASS selctor */
+.kittyKat {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.blueText {
+  color: blue;
+}
+
+/* ID selector */
+#borderBase {
+  border-bottom: 1px solid #000000;
+  color: #333333;
+}
